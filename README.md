@@ -1,2 +1,2 @@
-# BTC-Trader-Pro-Updates
+# BTC-Trader-Pro
 Official update distribution for BTC Trader Pro
