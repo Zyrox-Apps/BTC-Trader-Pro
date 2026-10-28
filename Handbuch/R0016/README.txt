@@ -1,1 +1,1 @@
-KI-Kundenhandbuch BTC Trader Pro R0016
+KI-Kundenhandbuch BTC Trader Pro
