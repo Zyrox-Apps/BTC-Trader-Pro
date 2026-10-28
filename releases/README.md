@@ -8,7 +8,7 @@ Hier werden die freigegebenen Programmversionen von BTC Trader Pro bereitgestell
 
 Jede veröffentlichte Version besitzt einen eigenen Ordner:
 
-- "R0016/" – BTC Trader Pro R0016
+- "R0020/" – BTC Trader Pro R0020
 - Weitere Versionen folgen bei Bedarf.
 
 Die Ordner enthalten nach ihrer Freigabe die vollständigen Installationspakete einschließlich der zugehörigen Android-App und Integritätsnachweise.
