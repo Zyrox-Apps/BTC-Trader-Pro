@@ -143,7 +143,7 @@ Jede Version erhält einen eigenen Unterordner.
 
 Beispiel:
 
-"releases/R0016/"
+"releases/R0020/"
 
 Vollständige Installationspakete können nach ihrer Freigabe das Linux-Setup, die zugehörige Android-App und Integritätsnachweise enthalten.
 
@@ -155,19 +155,9 @@ Wichtig: Die Existenz eines Versionsordners bedeutet nicht automatisch, dass die
 
 🛠️ Aktueller Entwicklungsstand
 
-🟡 Test- und Erprobungsphase
-
 BTC Trader Pro ist ein unabhängig entwickeltes Softwareprojekt von Zyrox.
 
 Die Entwicklung umfasst sowohl die eigentliche Trading-Software als auch die Android-App, das Installationssystem, die Lizenzverwaltung und den signierten Updateprozess.
-
-Derzeit werden insbesondere die Installation, die Gerätekompatibilität und die sichere Bereitstellung für zukünftige Nutzer praktisch erprobt.
-
-Die Veröffentlichung der ersten Kundenfassung wird vorbereitet.
-
-Bis zur ausdrücklichen Freigabe stehen vollständige Kundeninstallationspakete nicht allgemein zum Download bereit.
-
-Ob und in welchem Umfang das Projekt zukünftig kommerziell angeboten und weiterentwickelt wird, ist noch offen.
 
 ---
 
@@ -222,7 +212,5 @@ BTC Trader Pro stellt keine individuelle Anlageberatung oder Gewinnzusage dar.
 ---
 
 © 2026 BTC Trader Pro
-
-Projektstatus: Test- und Erprobungsphase
 
 Unabhängig entwickeltes Softwareprojekt.
